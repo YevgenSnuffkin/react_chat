@@ -42,8 +42,7 @@ export default class Layout extends React.Component {
     if (!messages.length) {
       this.fetchMessages()
 
-      //return <button onClick={this.fetchMessages.bind(this)}>Start Chat</button> 
-      //<button onClick={this.addMessage("MethodMan","ABDEBNJ")}>post</button>
+      
       //addMessage method which passes yhe message to the state the chart,
       //randomly taken from JSON component->dispatch.my_message_sent->...
 
