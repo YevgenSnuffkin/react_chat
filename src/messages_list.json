@@ -1,0 +1,38 @@
+[{
+  
+  "userpic": "./pic_1",
+  "date": "12.01.2011",
+  "message":"Hello Im Johny Knoxwille",
+  "author": "Johny",
+  "id": "5FISPUPLA4U5UHZR9QQ5FJJS"
+},
+
+{
+   "userpic": "./pic_2",
+  "date": "12.01.2011",
+  "message":"Hi Folks, ho ur doin fellaz",
+  "author": "Jonny",
+  "id": "CZ70QPAURSWGO2J028SEAU2Q"
+},
+{
+   "userpic": "./pic_3",
+  "date": "13.01.2011",
+  "message":"Wazzzuuup",
+  "author": "Barnie",
+  "id": "MTVA2IJO86MXGBI02W0IWSJL"
+},
+{
+   "userpic": "./pic_4",
+  "date": "14.01.2011",
+  "message":"Hello there",
+  "author": "Homer",
+  "id": "TVF9WCM09C0WBWM8J38XBEGN"
+},
+{
+   "userpic": "./pic_5",
+  "date": "14.01.2011",
+  "message":"yep im good",
+  "author": "Socrates",
+  "id": "B8GMWS9YEI4L6YC03DO3OMAU"
+}
+]
